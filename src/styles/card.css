@@ -1,0 +1,27 @@
+.card {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    border: 1px white solid;
+    justify-items: center;
+}
+
+.header {
+    height: 30%;
+    background: black;
+    color: white;
+    text-align: center;
+    border: 1px white solid;
+}
+
+.container {
+    background-color: black;
+    padding: 2px 16px;
+    border: 1px white solid;
+}
+
+button{
+    background-color: black;
+    color: white;
+    
+}
