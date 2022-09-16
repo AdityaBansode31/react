@@ -28,6 +28,21 @@
   color: #61dafb;
 }
 
+.Reactjs{
+  
+  
+  margin: 200px;
+  height: 200px;
+  background: black;
+  color: white;
+
+}
+
+.center{
+  /* margin-top: 20px; */
+  text-align: center;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
